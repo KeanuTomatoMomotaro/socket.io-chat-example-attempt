@@ -1,0 +1,15 @@
+{
+  "name": "node_chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keanu Nurherbyanto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}
